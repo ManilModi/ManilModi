@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manilmodi" alt="manilmodi" /></a> </p>
 
-- 🔭 I’m currently working on **Delhi Power Prediction**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ManilModi](https://github.com/ManilModi)
+
+- 📝 My LinkedIn profile is [https://www.linkedin.com/in/manil-modi-90b028278/](https://www.linkedin.com/in/manil-modi-90b028278/)
 
 - 📝 I also write articles on [https://medium.com/@msmodi1701](https://medium.com/@msmodi1701)
 
