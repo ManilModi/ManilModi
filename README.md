@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ManilModi](https://github.com/ManilModi)
 
-- 📝 My LinkedIn profile is [https://www.linkedin.com/in/manil-modi-90b028278/](https://www.linkedin.com/in/manil-modi-90b028278/)
+- 📝 My LinkedIn profile : [https://www.linkedin.com/in/manil-modi-90b028278/](https://www.linkedin.com/in/manil-modi-90b028278/)
 
 - 📝 I also write articles on [https://medium.com/@msmodi1701](https://medium.com/@msmodi1701)
 
