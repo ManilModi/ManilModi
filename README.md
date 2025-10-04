@@ -1,6 +1,6 @@
 <!-- 👋 Introduction -->
 <h1 align="center">Hi 👋, I'm Manil Modi</h1>
-<h3 align="center">🚀 Machine Learning Engineer | AI Researcher | Full-Stack Developer</h3>
+<h3 align="center">🚀 Machine Learning Engineer | AI Researcher </h3>
 
 ---
 
