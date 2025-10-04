@@ -23,8 +23,8 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m passionate about **Machine Learning, AI, and Intelligent Systems**
-- 🌱 Currently exploring **Graph RAG, Multi-Agent Systems, and MLOps**
+- 🔭 I’m passionate about **Machine Learning, AI, and Real-World Problem Solving**
+- 🌱 Currently exploring **MLOps**
 - 💡 I love building **AI-driven full-stack applications**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/ManilModi)
 - 📝 I also write insightful articles on [Medium](https://medium.com/@msmodi1701)
